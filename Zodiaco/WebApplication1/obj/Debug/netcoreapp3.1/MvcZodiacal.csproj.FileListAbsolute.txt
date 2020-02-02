@@ -1,0 +1,4 @@
+C:\Users\KevinJ\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\MvcZodiacal.csprojAssemblyReference.cache
+C:\Users\KevinJ\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\MvcZodiacal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KevinJ\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\MvcZodiacal.AssemblyInfoInputs.cache
+C:\Users\KevinJ\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\MvcZodiacal.AssemblyInfo.cs

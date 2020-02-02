@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "index";
+}
+
+<h1>index</h1>
+<form asp-action="index" method="get">
+    <input id="A" type="number" name="A" value="" />
+    <label for="A">X<sup>2</sup></label>
+
+
+    <input id="B" type="number" name="B" value="" />
+    <label for="B">X</label>
+
+    <input id="C" type="number" name="C" value="" />
+    <input type="submit" class="btn-primary btn" value="Resolver" />
+</form>
+<h1> X  <sub>1</sub> = <span>@ViewBag.resultPositivo</span></h1>
+<h1> X<sub>2</sub> = <span>@ViewBag.resultNegativo</span></h1>

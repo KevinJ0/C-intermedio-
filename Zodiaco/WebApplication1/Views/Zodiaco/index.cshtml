@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Zodiaco";
+}
+
+<h2>Zodiaco</h2>
+<form asp-action="Result" method="get">
+    <label for="day">Dia</label>
+    <input id="day" type="number" min="0" max="31" name="day" value="" />
+    <label for="month">Mes</label>
+    <input id="month" type="number" name="month" min="0" max="12" value="" />
+    <input type="submit" name="name" class="btn" value="Enviar" />
+</form>
